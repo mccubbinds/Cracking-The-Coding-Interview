@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CheckPermutation.cpp
+e:\career\interview materials\practice problems\checkpermutation\checkpermutation\checkpermutation.cpp(35): warning C4018: '<': signed/unsigned mismatch
+e:\career\interview materials\practice problems\checkpermutation\checkpermutation\checkpermutation.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  CheckPermutation.vcxproj -> E:\Career\Interview materials\Practice Problems\CheckPermutation\Debug\CheckPermutation.exe
+  CheckPermutation.vcxproj -> E:\Career\Interview materials\Practice Problems\CheckPermutation\Debug\CheckPermutation.pdb (Partial PDB)

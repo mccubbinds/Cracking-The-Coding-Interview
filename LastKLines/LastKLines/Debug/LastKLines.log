@@ -1,0 +1,5 @@
+﻿  LastKLines.cpp
+e:\career\interview materials\practice problems\lastklines\lastklines\lastklines.cpp(72): warning C4018: '<': signed/unsigned mismatch
+e:\career\interview materials\practice problems\lastklines\lastklines\lastklines.cpp(76): warning C4018: '>': signed/unsigned mismatch
+  LastKLines.vcxproj -> E:\Career\Interview materials\Practice Problems\LastKLines\Debug\LastKLines.exe
+  LastKLines.vcxproj -> E:\Career\Interview materials\Practice Problems\LastKLines\Debug\LastKLines.pdb (Partial PDB)

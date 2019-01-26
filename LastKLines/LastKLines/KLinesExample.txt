@@ -1,0 +1,10 @@
+This is
+a
+file that contains
+10
+lines.
+Determine
+how many
+should
+be
+printed.
