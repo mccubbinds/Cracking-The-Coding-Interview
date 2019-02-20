@@ -1,0 +1,5 @@
+﻿  StringCompression.cpp
+c:\users\derek\source\repos\mccubbinds\cracking-the-coding-interview\stringcompression\stringcompression\stringcompression.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\mccubbinds\cracking-the-coding-interview\stringcompression\stringcompression\stringcompression.cpp(18): warning C4018: '<=': signed/unsigned mismatch
+  StringCompression.vcxproj -> C:\Users\Derek\Source\Repos\mccubbinds\Cracking-The-Coding-Interview\StringCompression\Debug\StringCompression.exe
+  StringCompression.vcxproj -> C:\Users\Derek\Source\Repos\mccubbinds\Cracking-The-Coding-Interview\StringCompression\Debug\StringCompression.pdb (Partial PDB)

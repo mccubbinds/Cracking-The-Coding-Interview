@@ -4,7 +4,6 @@
 #include "stdafx.h"
 #include "stdio.h"
 #include "iostream"
-#include <stdlib.h>
 
 using namespace std;
 
@@ -67,7 +66,7 @@ bool IsOneAway(char* string1, char* string2)
 int main()
 {
 	char* string1 = "pale";
-	char* string2 = "bake";
+	char* string2 = "pakle";
 
 	printf("IsOneAway? %d", IsOneAway(string1, string2));
 

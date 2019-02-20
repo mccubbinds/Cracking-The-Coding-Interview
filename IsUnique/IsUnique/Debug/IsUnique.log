@@ -1,6 +1,8 @@
-﻿  IsUnique.cpp
-e:\career\interview materials\practice problems\isunique\isunique\isunique.cpp(20): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
-e:\career\interview materials\practice problems\isunique\isunique\isunique.cpp(31): warning C4018: '<': signed/unsigned mismatch
-e:\career\interview materials\practice problems\isunique\isunique\isunique.cpp(36): warning C4018: '<': signed/unsigned mismatch
-  IsUnique.vcxproj -> E:\Career\Interview materials\Practice Problems\IsUnique\Debug\IsUnique.exe
-  IsUnique.vcxproj -> E:\Career\Interview materials\Practice Problems\IsUnique\Debug\IsUnique.pdb (Partial PDB)
+﻿  stdafx.cpp
+  IsUnique.cpp
+c:\users\derek\source\repos\mccubbinds\cracking-the-coding-interview\isunique\isunique\isunique.cpp(20): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\derek\source\repos\mccubbinds\cracking-the-coding-interview\isunique\isunique\isunique.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\mccubbinds\cracking-the-coding-interview\isunique\isunique\isunique.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\Derek\source\repos\mccubbinds\Cracking-The-Coding-Interview\IsUnique\Debug\IsUnique.exe not found or not built by the last incremental link; performing full link
+  IsUnique.vcxproj -> C:\Users\Derek\source\repos\mccubbinds\Cracking-The-Coding-Interview\IsUnique\Debug\IsUnique.exe
+  IsUnique.vcxproj -> C:\Users\Derek\source\repos\mccubbinds\Cracking-The-Coding-Interview\IsUnique\Debug\IsUnique.pdb (Partial PDB)
